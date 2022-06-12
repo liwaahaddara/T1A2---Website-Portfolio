@@ -1,0 +1,217 @@
+:root {
+  font-size: 16px;
+  font-family: 'Josefin Sans', sans-serif;
+  background: black;
+  color: white;
+  background-image: url(/src/Images/background1Large.jpg);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+#Headings {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-style: italic;
+
+}
+
+h1 {
+  font-size: 7rem;
+}
+
+.generalHeaders {
+  color:blue;
+  font-size: 5.5rem;
+}
+
+#portfolioHeaderText {
+  font-size: 4.5rem;
+  margin: 0;
+  padding: 2rem 0;
+}
+
+.blogPageHeader {
+  font-size: 4.5rem;
+}
+
+#portfolioHeaderText:hover {
+  transition: 600ms;
+  background: grey;
+  color: white;
+}
+
+#subHeading {
+  font-size: 3rem;
+}
+
+#homeImageDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  
+}
+
+.blogImage {
+  width: 80%;
+  height: 100%;
+}
+
+#homepageText {
+  position: absolute;
+  top: 1020px;
+  text-align: center;
+  color: black;
+  font-size: 1.3rem;
+  padding: 10px;
+}
+
+
+#myNavbar {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: peru;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+#blogNavbar {
+  display: flex;
+  /* position: fixed;
+  top: 0; */
+  width: 100%;
+  background: black;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.gallery {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.galleryImage {
+  border: 10px solid peru;
+}
+
+.navbar-item {
+  color: #f2f2f2;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 1.1rem;
+
+}
+
+.navbar-item:hover {
+  background-color: #ddd;
+  color: black;
+  transition: 600ms;
+}
+
+#portfolioMain {
+  display: flexbox;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+/* Header/Blog Title */
+.blogHeader {
+  padding: 1px;
+  font-size: 4rem;
+  text-align: center;
+  background: white;
+  color: blueviolet;
+}
+
+/* Column */
+.column { 
+  float: left;
+  width: 100%;
+  padding: 0;
+}
+
+/* Fake image */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Add a card effect for articles */
+.card {
+  background-color: white;
+  padding: 20px;
+  border: 15px solid blueviolet;
+  /* margin-top: 20px; */
+  color: black;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.blogLinks {
+  text-decoration: none;
+}
+
+
+/* The About Me and Contact Me Page */
+#liwaaPortraitDiv {
+  display: flex;
+  justify-content: center;
+}
+
+#infoAboutMe {
+  background: black;
+}
+
+#dotPointsAboutMe {
+  list-style-type: none;
+}
+
+#contactDiv {
+  margin: 0;
+  padding: 5px 20px;
+  width: 100vw;
+  height: 300px;
+  background: plum;
+}
+
+#contactDiv h3 {
+  margin: 0;
+  padding: 10px 0;
+  color: black;
+  font-size: 2rem;
+}
+
+#contactDiv p {
+  position: relative;
+  margin: 0;
+  padding: 5px 0;
+  font-size: 1.3rem;
+}
+
+#socialsLogoList {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.socialLogos {
+  margin: 0 2.5rem;
+}
