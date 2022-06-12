@@ -25,6 +25,16 @@ https://github.com/liwaahaddara/LiwaaHaddara_T1A2
 ![image of blog page](</docs/Blog%20Page%20(Mobile).png>)
 ![image of about me/contact me page](</docs/About_Contact%20Page%20(Mobile).png>)
 
+### **Website Screenshots**
+
+![top of home page](/docs/home%20page%20top.png)
+![bottom of home page](/docs/home%20page%20bottom.png)
+![top of portfolio page](/docs/portfolio%20page%20top.png)
+![top of blog page](/docs/blog%20page%20top.png)
+![middle of blog page](/docs/blog%20page%20middle.png)
+![top of about me/contact me page](/docs/about%20contact%20page%20top.png)
+![bottom of about me/contact me page](/docs/about%20contact%20page%20bottom.png)
+
 ### **Tech Stack Used**
 
 - HTML
