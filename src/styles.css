@@ -36,6 +36,8 @@ h1 {
   font-size: 4.5rem;
   margin: 0;
   padding: 2rem 0;
+  text-align: center;
+  color: peru;
 }
 
 .blogPageHeader {
@@ -83,7 +85,7 @@ h1 {
   display: flex;
   position: fixed;
   bottom: 0;
-  width: 100%;
+  width: 100vw;
   height: 4rem;
   background: peru;
   justify-content: space-evenly;
@@ -108,7 +110,10 @@ h1 {
 }
 
 .galleryImage {
-  border: 10px solid peru;
+  border: 1.5rem solid black;
+  width: 100vw;
+  /* height: 100%; */
+  margin-bottom: 15px;
 }
 
 .navbar-item {
