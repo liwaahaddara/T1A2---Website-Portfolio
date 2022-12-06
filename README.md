@@ -31,10 +31,6 @@ It'll also help to get my feet in the water to become more familiarized with cre
 
 https://phenomenal-biscochitos-d2cb40.netlify.app
 
-### **Link to GitHub Repo**
-
-https://github.com/liwaahaddara/LiwaaHaddara_T1A2
-
 ### **Sitemap**
 
 ![pdf of the website's sitemap](/docs/PortfolioSitemap.pdf)
