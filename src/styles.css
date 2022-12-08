@@ -240,9 +240,19 @@ h1 {
   /* justify-content:space-around; */
 }
 
+.mainContactLineBreaks {
+  height: 30px;
+  width: 100vw;
+  background-color: black;
+}
+
 .footerHr {
   height: 10px;
   width: 100vw;
   background-color: brown;
   
+}
+
+#aboutMeHeader {
+  margin-bottom: 0px;
 }
